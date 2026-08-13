@@ -1,0 +1,4 @@
+# Exemplo de conteúdo do .gitignore
+node_modules/
+.env
+*.log
